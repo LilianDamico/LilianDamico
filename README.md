@@ -2,6 +2,7 @@
 - - 👀 I’m interested in Python and JavaScript
 - 🌱 I’m currently learning Technology in Analysis and Systems Development
 - 💞️ I’m looking to collaborate on systems development in Python and JavaScript, for while.
+- I'm working on an algorithm that converts decimal numbers to binary. I know that Python already has a converter in its library, however, I would like to develop the reasoning
 - 📫 How to reach me: e-mail lfonseca_damico@hotmail.com; Telegram @LilianDF1, Discord LilianDamico#7316.
 
 <!---
