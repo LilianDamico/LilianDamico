@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 #
-![snake gif](https://github.com/EnzoWarner/EnzoWarner/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LilianDamico/LilianDamico/blob/output/github-contribution-grid-snake.svg)
 #
