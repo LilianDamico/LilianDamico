@@ -2,7 +2,6 @@
 - My skills are Java and TypeScript
 - - 👀 I’m interested in Python and JavaScript
 - 🌱 I have a degree in Systems Analysis and Development from FATEC Praia Grande and currently work as an Analyst at Avanade do Brasil.
-- 💞️ I’m looking to collaborate on systems development in Python and JavaScript, for while.
 - 📫 How to reach me: e-mail lfonseca_damico@hotmail.com; Telegram @LilianDF1, Discord LilianDamico#7316.
 
 <!---
